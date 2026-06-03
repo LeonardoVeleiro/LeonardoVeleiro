@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ED145B&height=180&section=header&text=Leonardo%20Veleiro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ED145B&height=180&section=header&text=Computer%20Engineering%20Student&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 # Olá, eu sou o Leonardo Veleiro! 👋
 
 🎓 Estudante de **Engenharia da Computação** na FIAP.  
-💻 Atualmente estou explorando diferentes áreas da tecnologia para entender onde posso aplicar melhor o meu potencial.  
+💻 Atualmente estou explorando diferentes áreas da tecnologia para identificar onde posso aplicar melhor meu potencial.  
 🚀 Tenho interesse em desenvolvimento de software, backend, mobile, banco de dados e soluções integradas.
 
 Estou construindo meu portfólio com projetos acadêmicos e práticos, buscando evoluir tecnicamente e entender melhor como a tecnologia pode ser usada para resolver problemas reais.
@@ -17,6 +17,14 @@ Sou uma pessoa persistente, organizada e comunicativa. Tenho facilidade para apr
 Também me considero responsável e rigoroso com prazos, procurando entregar projetos bem estruturados, documentados e funcionais.
 
 Ainda estou em fase de exploração dentro da área de tecnologia, mas busco oportunidades em que eu possa aprender com profissionais mais experientes, contribuir com dedicação e agregar valor à empresa com os conhecimentos que venho desenvolvendo durante minha formação.
+
+---
+
+## 🎯 O que estou buscando
+
+Busco oportunidades de estágio ou projetos em tecnologia onde eu possa aprender com profissionais mais experientes, desenvolver minhas habilidades técnicas e contribuir com responsabilidade, organização e vontade de evoluir.
+
+Tenho interesse em ambientes onde eu possa aplicar conhecimentos de desenvolvimento de software, backend, mobile, banco de dados e Python, enquanto continuo descobrindo a área em que melhor posso usar meu potencial.
 
 ---
 
